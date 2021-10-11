@@ -1,0 +1,4 @@
+Container has 3 elements after sorting in the following order:
+Rectangular parallelepiped. a = 4, b = 5, c = 7. Volume = 140.000000.	Density = 6.500000.
+Ball.                       r = 2.               Volume = 33.510322.	Density = 1.300000.
+Regular tetrahedron.        a = 5.               Volume = 14.731391.	Density = 2.700000.
